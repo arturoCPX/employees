@@ -75,6 +75,7 @@ document.getElementById('deleteBtn').addEventListener('click', function () {
     } else {
         alert('Por favor, ingresa un ID');
     }
+
 });
 
 // Editar empleado
